@@ -1,0 +1,26 @@
+[2016-05-16 18:53:15 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID 8a1df358 (outbound) of Remoting connection 2e07f5d5 to localhost/127.0.0.1:4447
+[2016-05-16 18:54:45 ERROR connection]:99 - JBREM000200: Remote connection failed: java.io.IOException: An existing connection was forcibly closed by the remote host
+[2016-05-16 18:54:45 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID f28203c6 (outbound) of Remoting connection 30531a14 to null
+[2016-05-16 18:55:55 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID 8d9126fa (outbound) of Remoting connection 0dce78ea to localhost/127.0.0.1:4447
+[2016-05-16 18:56:36 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID c38acffb (outbound) of Remoting connection 0ee8c058 to localhost/127.0.0.1:4447
+[2016-05-16 19:04:34 ERROR Account_controller]:399 - javafx.fxml.LoadException: 
+/C:/Users/Mat%c3%ba%c5%a1/workspace%20-%20Eclipse%20EE/07/EJBTestClient/bin/hockey/view/Account.fxml
+
+[2016-05-16 19:04:43 ERROR Account_controller]:399 - javafx.fxml.LoadException: 
+/C:/Users/Mat%c3%ba%c5%a1/workspace%20-%20Eclipse%20EE/07/EJBTestClient/bin/hockey/view/Account.fxml
+
+[2016-05-16 19:04:54 ERROR Account_controller]:399 - javafx.fxml.LoadException: 
+/C:/Users/Mat%c3%ba%c5%a1/workspace%20-%20Eclipse%20EE/07/EJBTestClient/bin/hockey/view/Account.fxml
+
+[2016-05-16 19:05:00 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID f9bb51c0 (outbound) of Remoting connection 036767a3 to null
+[2016-05-16 19:08:39 ERROR Account_controller]:399 - javafx.fxml.LoadException: 
+/C:/Users/Mat%c3%ba%c5%a1/workspace%20-%20Eclipse%20EE/07/EJBTestClient/bin/hockey/view/Account.fxml
+
+[2016-05-16 19:09:07 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID abfe5ed5 (outbound) of Remoting connection 43835196 to localhost/127.0.0.1:4447
+[2016-05-16 19:10:51 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID a74be6b7 (outbound) of Remoting connection 7cc09153 to localhost/127.0.0.1:4447
+[2016-05-16 19:12:38 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID dd4e2ca9 (outbound) of Remoting connection 3332bbf4 to null
+[2016-05-16 19:13:32 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID dc939e71 (outbound) of Remoting connection 763ed616 to localhost/127.0.0.1:4447
+[2016-05-16 19:23:43 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID e8998e95 (outbound) of Remoting connection 677c73f2 to null
+[2016-05-16 19:24:20 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID 90142990 (outbound) of Remoting connection 52fac799 to null
+[2016-05-18 10:37:46 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID 9c25af30 (outbound) of Remoting connection 7e872485 to localhost/127.0.0.1:4447
+[2016-05-18 20:42:19 ERROR RemoteNamingStoreV1]:222 - Channel end notification received, closing channel Channel ID f55c08ff (outbound) of Remoting connection 79bb86d6 to localhost/127.0.0.1:4447

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence">
+  <persistence-unit name="05" transaction-type="JTA">
+    <jta-data-source>java:/jndi</jta-data-source>
+    <properties>
+      <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
+      <property name="hibernate.show_sql" value="true"/>
+      <property name="hibernate.hbm2ddl.auto" value="update"/>   
+    </properties>
+
+    <class>entity.Teams</class>
+    <class>entity.Teams1</class>
+    <class>entity.Matches</class>
+    <class>entity.BettingEvents</class>
+    <class>entity.Account</class>
+    <class>entity.Players</class>
+    <class>entity.PlayersInTeams</class>
+
+  </persistence-unit>
+</persistence>
